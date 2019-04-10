@@ -1,0 +1,2 @@
+# DesignMode
+iOS_DesignMode
